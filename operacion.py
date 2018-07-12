@@ -1,0 +1,7 @@
+﻿a= int (input("Ingrese el primer valor:  "))
+b= int (input("Ingrese el segundo valor: "))
+print("OPERACIONES BÁSICAS")
+print("Suma:", a + b)
+print("Resta:", a - b)
+print("Multiplicación: ", a * b )
+print("División: ",a / b)
